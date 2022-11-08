@@ -60,5 +60,3 @@ Note : only use `npm run commit` while commiting and select your tag whatever yo
 ## ⚫Contributors
 
 • [Dojeto](https://github.com/Dojeto)
-
-![Alt](https://repobeats.axiom.co/api/embed/34e14202f6dfebfde84f4c3af97c0ccb59ce144e.svg "Repobeats analytics image")
